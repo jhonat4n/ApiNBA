@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "img": "https://upload.wikimedia.org/wikipedia/en/6/67/Chicago_Bulls_logo.svg",
+        "name": "Chicago Bulls",
+        "city": "Chicago",
+        "arena": "United Center",
+        "coach": "Phil Jackson",
+        "championships": 6,
+        "description": "Os Chicago Bulls são um time de basquete profissional baseado em Chicago, Illinois. Eles ganharam seis campeonatos da NBA, todos na década de 1990, liderados por Michael Jordan e Scottie Pippen."
+    },
+    {
+        "id": 2,
+        "img": "https://content.sportslogos.net/logos/6/241/full/seattle_supersonics_logo_primary_19967583.png",
+        "name": "Seattle SuperSonics",
+        "city": "Seattle",
+        "arena": "KeyArena",
+        "coach": "George Karl",
+        "championships": 0,
+        "description": "Os Seattle SuperSonics eram um time de basquete profissional baseado em Seattle, Washington. Eles ganharam o Campeonato da NBA em 1979 antes de se mudarem para Oklahoma City em 2008."
+    },
+    {
+        "id": 3,
+        "img": "https://content.sportslogos.net/logos/6/216/full/new_york_knicks_logo_primary_19962276.png",
+        "name": "New York Knicks",
+        "city": "New York",
+        "arena": "Madison Square Garden",
+        "coach": "Jeff Van Gundy",
+        "championships": 2,
+        "description": "Os New York Knicks são um time de basquete profissional baseado na cidade de Nova York. Eles ganharam dois campeonatos da NBA, em 1970 e 1973."
+    },
+    {
+        "id": 4,
+        "img": "https://cdn.inspireuplift.com/uploads/images/seller_products/17516/iu_1711075442_1.png",
+        "name": "Orlando Magic",
+        "city": "Orlando",
+        "arena": "TD Waterhouse Centre",
+        "coach": "Brian Hill",
+        "championships": 0,
+        "description": "Os Orlando Magic são um time de basquete profissional baseado em Orlando, Flórida. Estabelecidos em 1989, o time teve várias aparições nos playoffs, mas ainda não conquistou um Campeonato da NBA."
+    },
+    {
+        "id": 5,
+        "img": "https://content.sportslogos.net/logos/6/234/full/utah_jazz_logo_primary_19973688.png",
+        "name": "Utah Jazz",
+        "city": "Salt Lake City",
+        "arena": "Delta Center",
+        "coach": "Jerry Sloan",
+        "championships": 0,
+        "description": "Os Utah Jazz são um time de basquete profissional baseado em Salt Lake City, Utah. Eles são conhecidos por suas campanhas bem-sucedidas na década de 1990, mas ainda não ganharam um Campeonato da NBA."
+    },
+    {
+        "id": 6,
+        "img": "https://content.sportslogos.net/logos/6/230/full/vr7yd7ghightk5f9g3jh5ltnc.png",
+        "name": "Houston Rockets",
+        "city": "Houston",
+        "arena": "The Summit",
+        "coach": "Rudy Tomjanovich",
+        "championships": 2,
+        "description": "Os Houston Rockets são um time de basquete profissional baseado em Houston, Texas. Eles ganharam os Campeonatos da NBA em 1994 e 1995, com Hakeem Olajuwon liderando a equipe."
+    },
+    {
+        "id": 7,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png",
+        "name": "Los Angeles Lakers",
+        "city": "Los Angeles",
+        "arena": "Great Western Forum",
+        "coach": "Del Harris",
+        "championships": 12,
+        "description": "Os Los Angeles Lakers são um time de basquete profissional baseado em Los Angeles, Califórnia. Com uma rica história, ganharam um total de 17 Campeonatos da NBA, tornando-os um dos times mais bem-sucedidos da NBA."
+    },
+    {
+        "id": 8,
+        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/San_Antonio_Spurs.svg/640px-San_Antonio_Spurs.svg.png",
+        "name": "San Antonio Spurs",
+        "city": "San Antonio",
+        "arena": "Alamodome",
+        "coach": "Bob Hill",
+        "championships": 5,
+        "description": "Os San Antonio Spurs são um time de basquete profissional baseado em San Antonio, Texas. Eles ganharam cinco Campeonatos da NBA, com uma forte presença na década de 2000."
+    },
+    {
+        "id": 9,
+        "img": "https://upload.wikimedia.org/wikipedia/pt/f/f6/Charlotte_Hornets.png",
+        "name": "Charlotte Hornets",
+        "city": "Charlotte",
+        "arena": "Charlotte Coliseum",
+        "coach": "Dave Cowens",
+        "championships": 0,
+        "description": "Os Charlotte Hornets são um time de basquete profissional baseado em Charlotte, Carolina do Norte. Estabelecidos em 1988, o time teve jogadores notáveis, mas ainda não conquistou um Campeonato da NBA."
+    },
+    {
+        "id": 10,
+        "img": "https://i1.wp.com/www.retroseasons.com/retroimages/0-logo-KATLH-1996.gif",
+        "name": "Atlanta Hawks",
+        "city": "Atlanta",
+        "arena": "Georgia Dome",
+        "coach": "Lenny Wilkens",
+        "championships": 0,
+        "description": "Os Atlanta Hawks são um time de basquete profissional baseado em Atlanta, Geórgia. Eles têm uma história notável, mas ainda não ganharam um Campeonato da NBA."
+    },
+    {
+        "id": 11,
+        "img": "https://content.sportslogos.net/logos/6/222/full/cleveland_cavaliers_logo_primary_19955963.png",
+        "name": "Cleveland Cavaliers",
+        "city": "Cleveland",
+        "arena": "Richfield Coliseum",
+        "coach": "Mike Fratello",
+        "championships": 1,
+        "description": "Os Cleveland Cavaliers são um time de basquete profissional baseado em Cleveland, Ohio. Eles ganharam seu único Campeonato da NBA em 2016, liderados por LeBron James."
+    },
+    {
+        "id": 12,
+        "img": "https://content.sportslogos.net/logos/6/223/full/detroit_pistons_logo_primary_19976102.png",
+        "name": "Detroit Pistons",
+        "city": "Detroit",
+        "arena": "The Palace of Auburn Hills",
+        "coach": "Chuck Daly",
+        "championships": 3,
+        "description": "Os Detroit Pistons são um time de basquete profissional baseado em Detroit, Michigan. Eles ganharam três Campeonatos da NBA, com sucesso notável no final dos anos 1980 e início dos anos 2000."
+    },
+    {
+        "id": 13,
+        "img": "https://www.thesportsdb.com/images/media/team/badge/v6jzgm1503741821.png",
+        "name": "Indiana Pacers",
+        "city": "Indianapolis",
+        "arena": "Market Square Arena",
+        "coach": "Larry Brown",
+        "championships": 0,
+        "description": "Os Indiana Pacers são um time de basquete profissional baseado em Indianapolis, Indiana. Eles têm uma história competitiva na NBA, mas ainda não conquistaram um Campeonato."
+    },
+    {
+        "id": 14,
+        "img": "https://content.sportslogos.net/logos/6/225/full/milwaukee_bucks_logo_primary_19946491.png",
+        "name": "Milwaukee Bucks",
+        "city": "Milwaukee",
+        "arena": "Bradley Center",
+        "coach": "Mike Dunleavy",
+        "championships": 1,
+        "description": "Os Milwaukee Bucks são um time de basquete profissional baseado em Milwaukee, Wisconsin. Eles ganharam seu único Campeonato da NBA em 1971, liderados por Kareem Abdul-Jabbar."
+    },
+    {
+        "id": 15,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Philadelphia-76ers-Logo-1977-1996.png",
+        "name": "Philadelphia 76ers",
+        "city": "Philadelphia",
+        "arena": "CoreStates Center",
+        "coach": "John Lucas",
+        "championships": 3,
+        "description": "Os Philadelphia 76ers são um time de basquete profissional baseado em Philadelphia, Pensilvânia. Eles ganharam três Campeonatos da NBA, com uma história que inclui o lendário Wilt Chamberlain."
+    },
+    {
+        "id": 16,
+        "img": "https://content.sportslogos.net/logos/6/227/full/toronto_raptors_logo_primary_19961665.png",
+        "name": "Toronto Raptors",
+        "city": "Toronto",
+        "arena": "SkyDome",
+        "coach": "Brendan Malone",
+        "championships": 1,
+        "description": "Os Toronto Raptors são um time de basquete profissional baseado em Toronto, Ontário. Eles ganharam seu primeiro Campeonato da NBA em 2019, liderados por Kawhi Leonard."
+    },
+    {
+        "id": 17,
+        "img": "https://content.sportslogos.net/logos/6/257/full/4898.gif",
+        "name": "Vancouver Grizzlies",
+        "city": "Vancouver",
+        "arena": "General Motors Place",
+        "coach": "Stu Jackson",
+        "championships": 0,
+        "description": "Os Vancouver Grizzlies eram um time de basquete profissional baseado em Vancouver, Colúmbia Britânica. O time se mudou para Memphis em 2001 e agora é conhecido como Memphis Grizzlies."
+    },
+    {
+        "id": 18,
+        "img": "https://content.sportslogos.net/logos/6/229/full/denver_nuggets_logo_primary_19946066.png",
+        "name": "Denver Nuggets",
+        "city": "Denver",
+        "arena": "McNichols Sports Arena",
+        "coach": "Dan Issel",
+        "championships": 0,
+        "description": "Os Denver Nuggets são um time de basquete profissional baseado em Denver, Colorado. Eles têm uma história competitiva na NBA, mas ainda não ganharam um Campeonato."
+    },
+    {
+        "id": 19,
+        "img": "https://images.squarespace-cdn.com/content/v1/5e8b9cb09666a61f4584fa8f/1589603833685-VCWGN6FJA01TAH91ZGHQ/NewJerseyNets_LogoDesign4.png",
+        "name": "New Jersey Nets",
+        "city": "East Rutherford",
+        "arena": "Continental Airlines Arena",
+        "coach": "Butch Beard",
+        "championships": 0,
+        "description": "Os New Jersey Nets eram um time de basquete profissional baseado em East Rutherford, New Jersey. O time se mudou para o Brooklyn em 2012 e agora é conhecido como Brooklyn Nets."
+    },
+    {
+        "id": 20,
+        "img": "https://content.sportslogos.net/logos/6/587/full/emb4en3mu4f9hr0hhhkfkapxc.gif",
+        "name": "Washington Bullets",
+        "city": "Washington D.C.",
+        "arena": "USAir Arena",
+        "coach": "Jim Lynam",
+        "championships": 1,
+        "description": "Os Washington Bullets, agora conhecidos como Washington Wizards, ganharam seu único Campeonato da NBA em 1978. Eles são baseados em Washington D.C."
+    }
+]
